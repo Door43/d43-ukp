@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ukp:home|Door43 (ukp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ukp|d43-ukp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ukp/archive/master.zip|d43-ukp.zip]]
+
+**Recent Changes**
+{{changes>ns = ukp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ukp|Ethnologue data]]
+
